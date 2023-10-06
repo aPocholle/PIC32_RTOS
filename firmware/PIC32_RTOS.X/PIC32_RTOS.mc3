@@ -38,5 +38,70 @@
          <value>__ROOTVIEW</value>
       </entry>
    </tokenMap>
-   <generatedFileHashHistoryMap class="java.util.TreeMap"/>
+   <generatedFileHashHistoryMap class="java.util.HashMap">
+      <entry>
+         <file>../src/main.c</file>
+         <hash>d3c233d419e6304bfacbafc18cc68c0f5c26e365f23b20ea40ccfac458f664c5</hash>
+      </entry>
+      <entry>
+         <file>../src/config/PIC32_RTOS/peripheral/clk/plib_clk.h</file>
+         <hash>35384f2e13e59b7190bf77f6996baf3ea2377ec42df94979a6f793326def5255</hash>
+      </entry>
+      <entry>
+         <file>../src/config/PIC32_RTOS/peripheral/gpio/plib_gpio.h</file>
+         <hash>e7a5825013925ab69bfca794023a77649de13d95729dbb6c17c8365807bce110</hash>
+      </entry>
+      <entry>
+         <file>../src/config/PIC32_RTOS/peripheral/evic/plib_evic.c</file>
+         <hash>c0fb57b116260e4be1477d8af40b368e18309e37291757721d8774bfa9058e0a</hash>
+      </entry>
+      <entry>
+         <file>../src/config/PIC32_RTOS/peripheral/gpio/plib_gpio.c</file>
+         <hash>6e4ba7561c1b3ba4da5f140eceec7c6c83723c16a66682f668fbc7383ed6a7ee</hash>
+      </entry>
+      <entry>
+         <file>../src/config/PIC32_RTOS/peripheral/evic/plib_evic.h</file>
+         <hash>3db08bffdc0b5ff70a67ac680b1e141ff9f730ea32e4e5655cbffd2b14f26d96</hash>
+      </entry>
+      <entry>
+         <file>../src/config/PIC32_RTOS/definitions.h</file>
+         <hash>055f085f1dc277a09f4de8c9750e9cf5c9309d3b0ac51c24602ce7e86a614cf2</hash>
+      </entry>
+      <entry>
+         <file>../src/config/PIC32_RTOS/exceptions.c</file>
+         <hash>ad7c8afe7fa8ac3a356ad4a7b779a2bc7c6d8e9aaf9d3cd7315a93a29f03978a</hash>
+      </entry>
+      <entry>
+         <file>../src/config/PIC32_RTOS/toolchain_specifics.h</file>
+         <hash>fd2fc7bbe60706409cc0c0a525825c0194f6f71adc0a89e6310041f06dc2f645</hash>
+      </entry>
+      <entry>
+         <file>../src/config/PIC32_RTOS/device.h</file>
+         <hash>10ec93c43a7b158a129ae05bd8f4a59ff5bcf3d0f3f062fdd64c374bc2d42099</hash>
+      </entry>
+      <entry>
+         <file>../src/config/PIC32_RTOS/interrupts.c</file>
+         <hash>15293fcc2450a1caa2944513770b31b5b0fb71918c31ec9a9c9b497b679b6f5f</hash>
+      </entry>
+      <entry>
+         <file>../src/config/PIC32_RTOS/peripheral/clk/plib_clk.c</file>
+         <hash>aea5562225cd3b8848c114b4f399299cea51b8a68ca4c5d6779c19d0dc10d4ce</hash>
+      </entry>
+      <entry>
+         <file>../src/config/PIC32_RTOS/initialization.c</file>
+         <hash>6db5fd1b8fd90ae0f38823e1c1e7d3475e9a94fb9c16cf6c03ed168da31e5cf2</hash>
+      </entry>
+      <entry>
+         <file>../src/config/PIC32_RTOS/stdio/xc32_monitor.c</file>
+         <hash>858f8710d4287200a5ee7f3b3ad7c24f505aed9c05c16956ab0ff9f7bb162a6a</hash>
+      </entry>
+      <entry>
+         <file>../src/config/PIC32_RTOS/interrupts.h</file>
+         <hash>759cce8ff415eadadd85a74232a5023d73e8859a4556ef4beb93c2cfd4b8d8ef</hash>
+      </entry>
+      <entry>
+         <file>../src/config/PIC32_RTOS/p32MZ2048EFH100.ld</file>
+         <hash>6a04f17e4ad9eccfc4e273712659279fcc092fc370a6c1ebe356e2eaec8ded5b</hash>
+      </entry>
+   </generatedFileHashHistoryMap>
 </config>
